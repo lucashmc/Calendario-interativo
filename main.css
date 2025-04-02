@@ -1,0 +1,13 @@
+*{font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.calendar, th, td{
+    border: 3px solid black;
+   border-collapse: collapse;
+   text-align: center;
+   width: 375px;
+   height: 45px;
+}
+
+th{
+    background-color: rgb(179, 111, 243);
+}
